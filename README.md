@@ -29,9 +29,9 @@
   <p>:mag: Parsing Websites</p>
   <p>:computer: Dekstop applications on PyQT</p>
 </div>
-<h3 align="center">
-  My Statistics :bar_chart:
-</h3>
-<div>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TWoWsCreator&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>
+
+### My Statistics :bar_chart:
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=TWoWsCreator&count_private=true&theme=tokyonight&showicons=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TWoWsCreator&layout=compact&theme=tokyonight)]()
+
+

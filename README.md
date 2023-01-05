@@ -19,3 +19,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="600" height="150"/>
 </div>
+<div align="center">
+  :man_technologist: About Me:
+  <h3>Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+  <p>:notebook_with_decorative_cover:	Websites on Django</p>
+  <p>:robot: Telegram Bots</p>
+  <p>:mag: Parsing Websites</p>
+  <p>:computer: Dekstop applications on PyQT</p>
+</div>

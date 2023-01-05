@@ -9,3 +9,13 @@
     <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+<div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=TWoWsCreator&style=flat-square&color=blue" alt=""/>
+</div>
+<h2 align="center">
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h2>
+<div align="center">
+  <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="600" height="150"/>
+</div>

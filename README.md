@@ -27,7 +27,7 @@
   <p>:notebook_with_decorative_cover:	Websites on Django</p>
   <p>:robot: Telegram Bots</p>
   <p>:mag: Parsing Websites</p>
-  <p>:computer: Dekstop applications on PyQT</p>
+  <p>:computer: Desktop applications on PyQT</p>
 </div>
 
 ### My Statistics :bar_chart:
